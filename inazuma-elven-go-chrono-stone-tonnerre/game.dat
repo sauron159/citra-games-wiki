@@ -1,0 +1,9 @@
+title = "Inazuma elven go chrono stone tonnerre"
+description = "jeux qui fonctionne mal il ya 1 bug bleu on peux pas progresser dans le scenario"
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000136C00"
+region = "Jpn"
+release_date = "2017-07-11"
